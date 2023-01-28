@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 More of my stuff below :arrow_down:
 ---
 ![tryhackme stats](https://raw.githubusercontent.com/MTTGIT19/MTTGIT19/master/assets/thm_propic.png)
-- Feel free to reach out to me on [linkedin]: www.linkedin.com/in/matthew-iorio
+
