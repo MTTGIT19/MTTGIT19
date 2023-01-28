@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-More of my stuff below :arrow_down:
+Other stuff :arrow_down:
 ---
 ![tryhackme stats](https://raw.githubusercontent.com/MTTGIT19/MTTGIT19/master/assets/thm_propic.png)
 
