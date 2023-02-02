@@ -27,6 +27,5 @@ Here are some ideas to get you started:
 
 Other stuff :arrow_down:
 ---
-![tryhackme stats](https://raw.githubusercontent.com/MTTGIT19/MTTGIT19/master/assets/thm_propic.png)
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/MILMT.png" alt="TryHackMe">
 Currently in the top 2% on TryHackme and climbing!
