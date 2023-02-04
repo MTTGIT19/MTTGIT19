@@ -6,7 +6,6 @@ Take a look around or feel free to contact me via LinkedIn. I post anything from
 I've been building computers since I was little but I'm interested in most things IT. Here's a bit of what I'm currently working on:
 - Preparing for a hands-on hacking cert. Currently leaning towards the eJPT.
 - Taking excessive notes of all the things (https://obsidian.md :+1:)
-- Writing Python scripts to make my life easier.
 - Malware analysis and breaking my computer. 
 
 `"I have no special talent. I am only passionately curious" - Albert Einstein`
