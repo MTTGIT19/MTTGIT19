@@ -4,7 +4,7 @@
 Take a look around or feel free to contact me via LinkedIn. I post anything from scripts to personal work or Master's projects. 
 
 I've been building computers since I was little but I'm interested in most things IT. Here's a bit of what I'm currently working on:
-- Debating if I should take the eJPT or just go for the OSCP.
+- Debating if I should take the eJPT or just go for the OSCP... Either way, that's what I'm currently studying for. 
 - Taking excessive notes of all the things (https://obsidian.md :+1:)
 - Malware analysis and breaking my computer. 
 
