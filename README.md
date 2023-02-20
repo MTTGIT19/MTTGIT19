@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 Other stuff :arrow_down:
 ---
 <img src="https://tryhackme-badges.s3.amazonaws.com/MILMT.png" alt="TryHackMe">
-Currently in the top 2% on TryHackme and climbing!
+Currently in the top 1% on TryHackme and climbing!
