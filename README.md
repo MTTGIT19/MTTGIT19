@@ -3,7 +3,8 @@
 ## Military veteran turned Cybersecurity professional
 Take a look around or feel free to contact me via LinkedIn. I post anything from scripts to personal work or Master's projects. 
 
-I've been building computers since I was little but I'm interested in most things IT. Here's a bit of what I'm currently working on:
+I've been building computers since I was little but I'm interested in most things IT. Here's a bit of what I'm currently working on:  
+- Wrapping up my masters degree (Info Sec)
 - Hands-on-keyboard prep for the OSCP. 
 - Taking excessive notes of all the things (https://obsidian.md :+1:)
 - Malware analysis and breaking my computer. 
