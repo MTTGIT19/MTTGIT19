@@ -28,5 +28,7 @@ Here are some ideas to get you started:
 
 Other stuff :arrow_down:
 ---
-<img src="https://tryhackme-badges.s3.amazonaws.com/MILMT.png" alt="TryHackMe">
-Currently in the top 1% on TryHackme and climbing!
+<img src="https://tryhackme-badges.s3.amazonaws.com/MILMT.png" alt="TryHackMe">   
+‼️ Top 1% on TryHackMe   
+
+:new: **JUNE23 UPDATE:** I've since moved to Hack the Box!  
