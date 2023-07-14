@@ -10,11 +10,11 @@ I've been building computers since I was little but I'm interested in most thing
 
 `"I have no special talent. I am only passionately curious" - Albert Einstein`<br/>
 
-## Python scripts/projects
+## 🐍 Python scripts / projects
 - [Auditlog reader](https://github.com/MTTGIT19/auditlog_reader)
 - [Cmd line Aviation weather](https://github.com/MTTGIT19/wx-scraper)
 - [Python + Nmap](https://github.com/MTTGIT19/ez_nmap)
-## 🟩 Hack The Box Walk Throughs
+## 🟩 Hack The Box (HTB) walk-throughs
 - Coming soon
 
 Other stuff :arrow_down:
