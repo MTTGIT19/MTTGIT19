@@ -17,16 +17,13 @@ I've been building computers since I was little but I'm interested in most thing
 ## 🟩 Hack The Box (HTB) walk-throughs
 - Coming soon
 
-Other stuff :arrow_down:
----
-<img src="https://tryhackme-badges.s3.amazonaws.com/MILMT.png" alt="TryHackMe">   
-- Previously ranked top 1% on TryHackMe <br>
-- :new: June 2023 - I've since moved to Hack the Box! <br>
-- [Follow my HTB activity!](https://app.hackthebox.com/profile/758161)
+## Other stuff :arrow_down:
+<img src="https://tryhackme-badges.s3.amazonaws.com/MILMT.png" alt="TryHackMe" height="55">     <img src="https://www.hackthebox.eu/badge/image/758161" height="55">    
 
+:one: *Ranked top 1% on TryHackMe*  
+:new: *June 2023 I've moved to Hack the Box!*
 
-
-<!--
+  <!--
 **MTTGIT19/MTTGIT19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
