@@ -21,7 +21,9 @@ Other stuff :arrow_down:
 ---
 <img src="https://tryhackme-badges.s3.amazonaws.com/MILMT.png" alt="TryHackMe">   
 - Previously ranked top 1% on TryHackMe <br>
-- :new: June 2023 - I've since moved to Hack the Box!  
+- :new: June 2023 - I've since moved to Hack the Box! <br>
+- [Follow my HTB activity!](https://app.hackthebox.com/profile/758161)
+
 
 
 <!--
