@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=42F745&width=435&lines=Hi+there+-+I'm+Matt)](https://git.io/typing-svg)
 
 ## Military veteran turned Cybersecurity professional
-Take a look around or feel free to contact me via LinkedIn. I post anything from Python scripts to infographics or master's projects. <br>
+Take a look around or feel free to contact me via LinkedIn. I post anything from Python scripts to infographics or master's projects.
 I've been building computers since I was little but aviation and tech are two of my favorite topics. Here's a bit of what I'm currently working on:<br/>
 - Hands-on-keyboard prep for the OSCP.
     -   Currently using HTB and OffSec Proving Grounds.
