@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=42F745&width=435&lines=Hi+there+-+I'm+Matt)](https://git.io/typing-svg)
-
 ## Military veteran turned Cybersecurity professional
-Take a look around or feel free to contact me via LinkedIn. I post anything from Python scripts to infographics or master's projects.
-I've been building computers since I was little but aviation and tech are two of my favorite topics. Here's a bit of what I'm currently working on:<br/>
-- Hands-on-keyboard prep for the OSCP.
-    -   Currently using HTB and OffSec Proving Grounds.
+Take a look around or feel free to contact me via LinkedIn. I post anything from Python scripts to tech projects and instructionals. 
+I love to tinker, and I've been building computers since I was little. Here's a bit of what I'm currently working on:<br/>
+- Hands-on-keyboard prep for the [OSCP](https://www.offsec.com/courses/pen-200/) (or possibly [CPTS](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist))
+    -   Finishing up the HackTheBox Academy Pentest path. 
+    -   Jumping into OffSec's Proving Grounds next.
 - Taking excessive notes of all the things (https://obsidian.md :+1:)
-- Competitive cyber tournaments aka *Capture The Flag* events.
+- Competitive cyber tournaments aka group *Capture The Flag* events.
 
 `"I have no special talent. I am only passionately curious" - Albert Einstein`<br/>
 
@@ -22,10 +22,12 @@ I've been building computers since I was little but aviation and tech are two of
 <img src="https://tryhackme-badges.s3.amazonaws.com/MILMT.png" alt="TryHackMe" height="55">     <img src="https://www.hackthebox.eu/badge/image/758161" height="55">    
 
 
-
-:ballot_box_with_check: Finished my Masters degree!! (Information Security)  
-:one: *Ranked top 1% on TryHackMe*  
-:new: *June 2023 I've moved to Hack the Box!* *Top 1,000 Users*
+**Goals:**    
+☑️ *Masters degree (M.S. Information Security)*    
+☑️ *Achieved top 1% on TryHackMe*    
+☑️ *Achieved top 1,000 users on HackTheBox*    
+⏭️ *Get seasonal silver rank or above on HackTheBox* -- details [here](https://www.hackthebox.com/blog/htb-seasons-announcement)    
+⏭️ *Pass OSCP or CPTPS*   
 
   <!--
 **MTTGIT19/MTTGIT19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
