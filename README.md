@@ -3,8 +3,7 @@
 Take a look around or feel free to contact me via LinkedIn. I post anything from Python scripts to tech projects and instructionals. 
 I love to tinker, and I've been building computers since I was little. Here's a bit of what I'm currently working on:<br/>
 - Hands-on-keyboard prep for the [OSCP](https://www.offsec.com/courses/pen-200/) (or possibly [CPTS](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist))
-    -   Finishing up the HackTheBox Academy Pentest path. 
-    -   Jumping into OffSec's Proving Grounds next.
+- Working on HTB pro labs. 
 - Taking excessive notes of all the things (https://obsidian.md :+1:)
 - Competitive cyber tournaments aka group *Capture The Flag* events.
 
