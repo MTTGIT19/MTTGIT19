@@ -25,8 +25,8 @@ I love to tinker, and I've been building computers since I was little. Here's a 
 ☑️ *Masters degree (M.S. Information Security)*    
 ☑️ *Achieved top 1% on TryHackMe*    
 ☑️ *Achieved top 1,000 users on HackTheBox*    
-⏭️ *Get seasonal silver rank or above on HackTheBox* -- details [here](https://www.hackthebox.com/blog/htb-seasons-announcement)    
-⏭️ *Pass OSCP or CPTPS*   
+☑️ *Get seasonal silver rank or above on HackTheBox* -- details [here](https://www.hackthebox.com/blog/htb-seasons-announcement)    
+⏭️ *Pass OSCP or CPTS*   
 
   <!--
 **MTTGIT19/MTTGIT19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
