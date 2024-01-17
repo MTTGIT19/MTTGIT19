@@ -12,8 +12,9 @@ Current shenanigans:
 - [Auditlog reader](https://github.com/MTTGIT19/auditlog_reader)
 - [Classipy](https://github.com/MTTGIT19/ClassiPY)
 - [Cmd line Aviation weather](https://github.com/MTTGIT19/wx-scraper)  
-## 🟩 Hack The Box (HTB) walk-throughs
-- Coming soon
+## 🟩 My website
+- https://mttgit19.github.io/unknownrider/ 
+- So far I've published a guide for the CPTS exam with more content to follow.
 
 
 ## Other stuff :arrow_down:
