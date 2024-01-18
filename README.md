@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=42F745&width=435&lines=Hi+there+-+I'm+Matt)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=42F745&width=435&lines=Welcome+to+my+Github!)](https://git.io/typing-svg)
 ## *Aviation nerd. Tinkerer. Veteran*   
 Current shenanigans:
-- Hands-on-keyboard prep for the [OSCP](https://www.offsec.com/courses/pen-200/) (or possibly [CPTS](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist))
+- Practicing for some new certs! [CBBH](https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter) then [OSCP](https://www.offsec.com/courses/pen-200/)
 - Hack The Box pro labs. 
 - Taking excessive notes of all the things (https://obsidian.md :+1:)
 - Competitive cyber tournaments aka group *Capture The Flag* events.
@@ -23,8 +23,9 @@ TryHackme and Hackthebox latest ranking:
 
 
 **Goals 2024:**   
-⏭ *Pass OSCP or CPTS*    
-⏭ *Get seasonal silver rank or above on HackTheBox* -- details [here](https://www.hackthebox.com/blog/htb-seasons-announcement)      
+🟢 ~~*Pass CPTS*~~ PASSED [CPTS](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist)!! Jan24    
+⏭ Pass CBBH  
+⏭ Pass OSCP  
   <!--
 **MTTGIT19/MTTGIT19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
