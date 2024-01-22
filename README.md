@@ -13,8 +13,8 @@ Current shenanigans:
 - [Classipy](https://github.com/MTTGIT19/ClassiPY)
 - [Cmd line Aviation weather](https://github.com/MTTGIT19/wx-scraper)  
 ## 🟩 My website
-- https://mttgit19.github.io/unknownrider/ 
-- So far I've published a guide for the CPTS exam with more content to follow.
+- Coming soon !
+- So far I've drafted a guide for the CPTS exam with a CBBH review coming soon. 
 
 
 ## Other stuff :arrow_down:
@@ -23,7 +23,7 @@ TryHackme and Hackthebox latest ranking:
 
 
 **Goals 2024:**   
-🟢 ~~*Pass CPTS*~~ PASSED [CPTS](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist)!! Jan24    
+🟢 ~~*Pass CPTS*~~ PASSED [CPTS](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist) !! Jan24    
 ⏭ Pass CBBH  
 ⏭ Pass OSCP  
   <!--
