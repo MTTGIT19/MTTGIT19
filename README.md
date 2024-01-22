@@ -13,9 +13,9 @@ Current shenanigans:
 - [Classipy](https://github.com/MTTGIT19/ClassiPY)
 - [Cmd line Aviation weather](https://github.com/MTTGIT19/wx-scraper)  
 ## 🟩 My website
-- Coming soon !
-- So far I've drafted a guide for the CPTS exam with a CBBH review coming soon. 
-
+- Newly launched: [My personal blog!](https://mttgit19.github.io/)
+- [x] CPTS review/tips.
+- [ ] CBBH review/tips.
 
 ## Other stuff :arrow_down:
 TryHackme and Hackthebox latest ranking:   
