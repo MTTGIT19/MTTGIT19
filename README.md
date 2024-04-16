@@ -8,14 +8,14 @@ Current shenanigans:
 
 `"I have no special talent. I am only passionately curious" - Albert Einstein`<br/>
 
-## 🐍 Original python scripts / projects
+## 🐍 Original scripts / code projects  
+Self taught Python 'programmer'. Really I just enjoy writing scripts that automate the boring stuff and make my job (and others) more efficient. 
 - [Auditlog reader](https://github.com/MTTGIT19/auditlog_reader)
 - [Classipy](https://github.com/MTTGIT19/ClassiPY)
 - [Cmd line Aviation weather](https://github.com/MTTGIT19/wx-scraper)  
 ## 🟩 My website
-- Newly launched: [My personal blog!](https://cyberskies.org)
-- [x] CPTS review/tips.
-- [ ] CBBH review/tips.
+- So I decided to make a website, [Cyberskies.org](https://cyberskies.org)
+- I'll be writing about my experiences with hands-on hacking labs and certs such as CBBH, CPTS, and OSCP. 
 
 ## Other stuff :arrow_down:
 TryHackme and Hackthebox latest ranking:   
@@ -28,15 +28,4 @@ TryHackme and Hackthebox latest ranking:
 ⏭ Pass OSCP  
   <!--
 **MTTGIT19/MTTGIT19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
