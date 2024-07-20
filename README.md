@@ -33,7 +33,7 @@ I am a self taught Python programmer. But really I just enjoy writing scripts th
   <a href="https://www.hackthebox.eu/badge/image/758161" target="bblank">
   <img src="https://img.shields.io/badge/HackTheBox-b?style=for-the-badge&logo=hackthebox&logoColor=black&color=green" alt="htbrank"/></a>
 </p>     
-<img src="https://www.hackthebox.eu/badge/image/758161" height="65">    
+<img src="https://www.hackthebox.eu/badge/image/758161" height="50">    
 
 ![Static Badge](https://img.shields.io/badge/Python-a?style=for-the-badge&logo=python&logoColor=white&color=blue)
 ![Static Badge](https://img.shields.io/badge/Markdown-b?style=for-the-badge&logo=markdown&logoColor=white&color=black)
