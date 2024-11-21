@@ -18,6 +18,7 @@
   
 ## 🐍 Original scripts / code projects  
 I am a self taught Python programmer. But really I just enjoy writing scripts that automate the boring stuff *or* perform hacker magic. 
+- [Quick Kali build](https://github.com/MTTGIT19/kali_build)
 - [Auditlog reader](https://github.com/MTTGIT19/auditlog_reader)
 - [Classipy](https://github.com/MTTGIT19/ClassiPY)
 - [Cmd line Aviation weather](https://github.com/MTTGIT19/wx-scraper)  
