@@ -10,8 +10,9 @@
 - Current shenanigans: Chasing certifications, and making giant [Obsidian](https://obsidian.md/) vaults. ✏️
   -   **Certs:**
   -   ✔️ ~~HackTheBox Certified Penetration Tester~~ 
-  -   ✔️ ~~HackTheBox Bug Bounty Hunter~~
-  -   Next up... CRTO, OSWE? 🤔
+  -   ✔️ ~~HackTheBox Bug Bounty Hunter~~ 
+  -   ✔️ ~~Red Team Operator~~
+  -   TBD... 🤔
   
 
 `"I have no special talent. I am only passionately curious" - Albert Einstein`<br/>   
