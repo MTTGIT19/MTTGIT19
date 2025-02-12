@@ -15,9 +15,9 @@
   
 ## 🐍 Original scripts / code projects  
 I  enjoy writing scripts that make everyones lives easier.  
-- [Quick Kali build](https://github.com/MTTGIT19/kali_build)
 - [Auditlog reader](https://github.com/MTTGIT19/auditlog_reader)
 - [Classipy](https://github.com/MTTGIT19/ClassiPY)
+- Quick Kali build (Ansible script)
 - [Cmd line Aviation weather](https://github.com/MTTGIT19/wx-scraper)  
 
 </br>
