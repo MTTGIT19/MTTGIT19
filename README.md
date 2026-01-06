@@ -7,6 +7,7 @@
   -   ✔️ ~~HackTheBox Certified Penetration Tester~~ 
   -   ✔️ ~~HackTheBox Bug Bounty Hunter~~ 
   -   ✔️ ~~Red Team Operator~~
+  -   ✔️ ~~Offsec OSEP~~
   -   TBD... 🤔 Something web related? (OSWE or CWEE)
   
 <img src="https://www.hackthebox.eu/badge/image/758161" height="50">    
